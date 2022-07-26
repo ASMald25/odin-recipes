@@ -1,4 +1,12 @@
-body{
+body {
     background-color: burlywood;
     
+}
+h1 {
+text-align: center;
+}
+.iul {
+text-align: center;
+font-size: 30px;
+padding: 5px;
 }
